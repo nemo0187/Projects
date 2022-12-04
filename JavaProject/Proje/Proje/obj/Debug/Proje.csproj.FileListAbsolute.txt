@@ -1,0 +1,44 @@
+C:\Users\huawei\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\huawei\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\huawei\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\huawei\source\repos\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\user\Desktop\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\user\Desktop\Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\user\Desktop\Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\user\Desktop\Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi projesi\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\user\Desktop\Proje Fuad Garibli\Proje\Proje\obj\Debug\Proje.pdb
