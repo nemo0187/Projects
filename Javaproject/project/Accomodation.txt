@@ -1,0 +1,12 @@
+p P1 10 4 1 true true
+c B1 60 6 2 2 true
+c B2 55 4 1 1 false
+p P2 5 6 1 false false
+p P3 15 4 0 false true
+p P4 10 8 2 true true
+c B3 100 4 1 2 true
+p P5 7 6 1 false false
+p P6 15 8 2 false true
+p P7 5 6 1 true false
+c B4 80 8 0 3 false
+p P8 10 4 2 false false
