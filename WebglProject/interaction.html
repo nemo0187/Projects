@@ -1,0 +1,51 @@
+<html>
+<body style="background-color:saddlebrown;">
+   <canvas id="glcanvas" width="512" height="512"></canvas>
+    <div id="Directions" style="position: relative; left: 70%; transform: translate(-50%,0); display: block; margin-bottom: 10px;color: black;" size="3">
+        <button id = "DirectionButton">Change Direction</button>
+        <button id = "StopButton">Stop Rotation</button>
+        <button id = "Faster">Faster</button>
+        <button id = "Slower">Slower</button>
+    </div>
+    <div id="scales">
+        <button id="scaleup" class="mr-15">Bigger</button>
+        <button id="scaledown" class="mr-15">Smaller</button>
+        <button id="normal">Normal Size</button>
+     </div>
+     <select name="" id="optionmenu" style="position: relative; left: 70%; transform: translate(-50%,0); display: block; margin-bottom: 10px;color: black;width: 100px;" size="3">
+        <option value="0" >Red</option>
+        <option value="1">Green</option>
+        <option value="2" >Blue</option>
+     </select>
+     <div>
+        <input id="slidex" type="range" min="-1" max="1" step="0.05" value="0" >&nbsp;<input id="slidey" type="range"	min="-1" max="1" step="0.05" value="0"style="rotate: -90deg;padding: 0px;">
+     </div>
+
+</body>
+<script id="vertex-shader" type="x-shader/x-vertex">
+   attribute vec4 vPosition;
+   uniform float theta;
+   uniform float scale;
+   uniform float slidexval;
+   uniform float slideyval;
+   void main() {
+	gl_Position.x = (cos(theta) * vPosition.x - sin(theta) * vPosition.y)*scale+slidexval;
+	gl_Position.y = (sin(theta) * vPosition.x + cos(theta) * vPosition.y)*scale+slideyval;
+	gl_Position.z = 0.0;
+	gl_Position.w = 1.0;
+}
+
+</script>
+<script id="fragment-shader" type="x-shader/x-fragment"> 
+   precision mediump float; 
+   void main() {
+      gl_FragColor = vec4( 0.0, 0.0, 1.0, 1.0 );
+   }
+</script>
+
+<script src="initShaders.js"></script>
+<script src="MV.js"></script>
+<script src="webgl-utils.js"></script>
+<script src="interaction.js"></script>
+
+</html>
